@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel N (Vannerss)</h1>
 <h3 align="center">Game Developer focused on Unity</h3>
 
-- 🌱 I’m currently learning **Python, .Net, and GLSL**
+- 🌱 I’m currently learning **JavaScript, .Net, and GLSL**
 
 - 👯 I’m looking to collaborate on **short games**
 
